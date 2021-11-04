@@ -2,7 +2,6 @@ package game;
 
 import ChessClasses.ChessBoard;
 
-import java.util.ArrayList;
 
 public class test {
     public static void main(String[] args) {
